@@ -1,0 +1,15 @@
+
+--------------------------------------------
+ABC Grocery Store
+
+Items bought: 
+
+Meat: Chicken @ $6.59/kg               98.85
+Dairy Products                         12.00
+Miscellaneous                          11.00
+
+                                      121.85
+
+          THANK YOU!
+
+--------------------------------------------
